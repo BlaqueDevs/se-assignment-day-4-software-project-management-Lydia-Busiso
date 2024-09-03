@@ -69,11 +69,28 @@ When Waterfall is More Beneficial:
 > Fixed Budget/Timeline: Standard ERP implementations with strict constraints.
 
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
+To ensure quality assurance in a software project, key methods include clear requirement analysis, test planning, automated and manual testing, code reviews, continuous integration, regression testing, user acceptance testing, and performance testing. Proper bug tracking and maintaining documentation and standards are also essential.
+
+Maintaining high standards is crucial because it leads to customer satisfaction, reduces costs by catching issues early, mitigates risks, ensures compliance with regulations, provides a competitive advantage, and makes future maintenance easier.
+
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
+Defining the project scope ensures clear objectives, prevents scope creep, improves resource management, enables accurate estimations, and enhances communication. A Work Breakdown Structure (WBS) is a hierarchical breakdown of a project into smaller tasks, improving clarity, planning, risk management, progress tracking, and task delegation. Both are essential for successful project planning.
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
+A detailed project schedule provides a clear timeline, improves resource allocation, tracks milestones, manages risks, enhances communication, and ensures accountability. Gantt charts assist by visually displaying the project timeline, showing task dependencies, tracking progress, allowing adjustments, and coordinating team efforts efficiently.
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+Software aims to address core issues like improving efficiency, enhancing communication, managing data, providing better user experiences, and ensuring security. These problems are significant to the target audience because they help save time, support collaboration, offer valuable insights, simplify usage, and protect sensitive information, all of which are crucial for success.
+
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
+Clearly defining the problem helps in developing a more effective software solution by ensuring the software addresses the real needs, focuses on the right features, prevents scope creep, and enables better resource allocation. This clarity leads to a solution that is more targeted, efficient, and valuable to users.
+
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
+The software solution can be described as a tool designed to simplify tasks, enhance productivity, and solve key problems faced by users, offering an intuitive and efficient way to achieve their goals without the need for deep technical knowledge.
+
 ## 11. What are the main features or functionalities that make your software stand out?
+The main features that make the software stand out include its intuitive user interface, efficient automation of key tasks, seamless integration with other tools, robust data management capabilities, and strong security measures.
+
 ## 12. What data is available regarding the market size and growth potential for your software?
+Data on the market size and growth potential for the software includes statistics on the current market value, projected growth rates, key trends driving demand, and the competitive landscape. This information highlights the software's potential for expansion and relevance in the market.
+
 ## 13. How can understanding market trends inform your software’s positioning and development?
+Understanding market trends helps inform software positioning and development by identifying emerging needs, guiding feature prioritization, shaping marketing strategies, and ensuring the software remains competitive and relevant in the evolving market.
